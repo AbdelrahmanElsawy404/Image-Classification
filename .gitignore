@@ -1,0 +1,20 @@
+# Python environment
+env/
+venv/
+.venv/
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets and Large models
+cats_vs_dogs/
+cats_vs_dogs.h5
+*.h5
+*.zip
+*.tar.gz
+*.tgz
